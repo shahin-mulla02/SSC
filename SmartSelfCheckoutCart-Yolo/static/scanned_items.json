@@ -1,0 +1,14 @@
+[
+    {
+        "name": "chips",
+        "price": 5,
+        "quantity": 1,
+        "expiry_date": "2026-04-16"
+    },
+    {
+        "name": "book",
+        "price": 50,
+        "quantity": 1,
+        "expiry_date": ""
+    }
+]

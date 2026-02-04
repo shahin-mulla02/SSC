@@ -1,0 +1,100 @@
+[
+  {
+    "code": "9780201379624",
+    "name": "Dettol",
+    "price": 60,
+    "sound": "dettol.mp3",
+    "expiry_date": "2025-12-21"
+  },
+  {
+    "code": "5780201379628",
+    "name": "Soup",
+    "price": 50,
+    "sound": "soup1.mp3",
+    "expiry_date": "2027-01-01"
+  },
+  {
+    "code": "8908019319071",
+    "name": "chips",
+    "price": 5,
+    "sound": "chips.mp3",
+    "expiry_date": "2026-02-26"
+  },
+  {
+    "code": "8908210820253",
+    "name": "Soup",
+    "price": 10,
+    "sound": "soup.mp3",
+    "expiry_date": "2025-06-25"
+  },
+  {
+    "code": "8909106000285",
+    "name": "Phenyle",
+    "price": 99,
+    "sound": "phenyle.mp3",
+    "expiry_date": "2027-01-01"
+  },
+  {
+    "code": "8909106070172",
+    "name": "Vicco vajradanti poweder",
+    "price": 42,
+    "sound": "vicco.mp3",
+    "expiry_date": "2025-01-01"
+  },
+  {
+    "code": "8939122042594",
+    "name": "Coconut Oil",
+    "price": 30,
+    "sound": "oil.mp3",
+    "expiry_date": "2027-01-01"
+  },
+  {
+    "code": "8906038344463",
+    "name": "Agarbatti",
+    "price": 10,
+    "sound": "agarbatti.mp3",
+    "expiry_date": "2026-01-10"
+  },
+  {
+    "code": "8909106036796",
+    "name": "Shampo",
+    "price": 1,
+    "sound": "shampo.mp3",
+    "expiry_date": "2025-11-01"
+  },
+  {
+    "code": "09448063619",
+    "name": "book",
+    "price": 20,
+    "sound": "book.mp3",
+    "expiry_date": "2027-01-01"
+  },
+  {
+    "code": "8904411801510",
+    "name": "pen",
+    "price": 5,
+    "sound": "pen.mp3",
+    "expiry_date": "2027-01-01"
+  },
+  {
+    "code": "7622202225512",
+    "name": "biscuit",
+    "price": 10,
+    "sound": "biscuit.mp3",
+    "expiry_date": "2025-09-30"
+  },
+  {
+    "code": "7622202818400",
+    "name": "5star",
+    "price": 10,
+    "sound": "5star.mp3",
+    "expiry_date": "2026-06-30"
+  },
+  {
+    "code": "8901287308013",
+    "name": "Mysore Sandle",
+    "price": 30,
+    "sound": "poweder.mp3",
+    "expiry_date": "2025-10-12"
+  }
+]
